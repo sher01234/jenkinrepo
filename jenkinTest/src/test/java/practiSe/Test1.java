@@ -30,6 +30,7 @@ public class Test1 {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		System.out.println("hellow");
 		System.out.println("welcome to jenkin");
+		System.out.println("good evening");
 		
 	}
 
